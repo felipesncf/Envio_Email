@@ -1,0 +1,11 @@
+C:\Users\pioca_000\source\repos\Envio_Final\Envio_Final\bin\Debug\netcoreapp3.0\Envio_Final.exe
+C:\Users\pioca_000\source\repos\Envio_Final\Envio_Final\bin\Debug\netcoreapp3.0\Envio_Final.deps.json
+C:\Users\pioca_000\source\repos\Envio_Final\Envio_Final\bin\Debug\netcoreapp3.0\Envio_Final.runtimeconfig.json
+C:\Users\pioca_000\source\repos\Envio_Final\Envio_Final\bin\Debug\netcoreapp3.0\Envio_Final.runtimeconfig.dev.json
+C:\Users\pioca_000\source\repos\Envio_Final\Envio_Final\bin\Debug\netcoreapp3.0\Envio_Final.dll
+C:\Users\pioca_000\source\repos\Envio_Final\Envio_Final\bin\Debug\netcoreapp3.0\Envio_Final.pdb
+C:\Users\pioca_000\source\repos\Envio_Final\Envio_Final\obj\Debug\netcoreapp3.0\Envio_Final.AssemblyInfoInputs.cache
+C:\Users\pioca_000\source\repos\Envio_Final\Envio_Final\obj\Debug\netcoreapp3.0\Envio_Final.AssemblyInfo.cs
+C:\Users\pioca_000\source\repos\Envio_Final\Envio_Final\obj\Debug\netcoreapp3.0\Envio_Final.dll
+C:\Users\pioca_000\source\repos\Envio_Final\Envio_Final\obj\Debug\netcoreapp3.0\Envio_Final.pdb
+C:\Users\pioca_000\source\repos\Envio_Final\Envio_Final\obj\Debug\netcoreapp3.0\Envio_Final.csprojAssemblyReference.cache
